@@ -7,6 +7,9 @@
 <br>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius+Cascaes+Pra;I'm+from+Brazil:%29)](https://git.io/typing-svg)
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciuspra&bg_color=1a1b27&color=38bdae&line=6c63ff&point=b06ffb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>
