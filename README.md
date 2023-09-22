@@ -1,43 +1,31 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
+<img src="https://github.com/viniciuspra/viniciuspra/assets/93842439/e6912a1f-6082-47b3-aa8a-20579c0b4943" alt="avatar" width="120px"/>
+
+# Hi, I'm Vinicius Cascaes 👋
+
+<h3>Full Stack Junior Web Developer</h3>
+
+### Sobre mim
+- 👨‍💻 Desenvolvedor web full stack, apaixonado por criar aplicações modernas.
+- 🌐 Atualmente trabalhando na stack front-end: React, Vite, styled-components e Tailwind CSS.
+- 📚 Aprendendo Typescript e Next.js para aprimorar minhas habilidades no front-end.
+- 🧰 Stack back-end: Node.js, Express, SQLite com Knex.
+- 📖 Explorando Prisma, Fastify e PostgreSQL em minha jornada de aprendizado no back-end.
+- 🚀 Sempre em busca de novos desafios e oportunidades para melhorar meu código.
+<br>
+<div align="center">
+  
+## Contact Me 🤝
+
+<a href="https://github.com/viniciuspra" target="_blank"><img src="https://img.shields.io/badge/-viniciuspra-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/vinicius-cascaes-pra" target="_blank"><img src="https://img.shields.io/badge/-vinicius_cascaes_pra-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="mailto:vinicius.cascaesp@gmail.com"><img src="https://img.shields.io/badge/-vinicius.cascaesp@gmail.com-white?logo=gmail&style=flat-square" alt="gmail"/></a>
+<br/><br/>
+<a href="https://www.buymeacoffee.com/viniciuspra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="buy me a coffe" /></a>
+</div>
 
 <div align="center">
-  <img width="400em" src="https://user-images.githubusercontent.com/93842439/218853481-f475c094-65f5-4c54-982b-0cf949670568.svg"/>
-</div>
-
-<br>
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius+Cascaes+Pra;I'm+from+Brazil:%29)](https://git.io/typing-svg)
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciuspra&bg_color=1a1b27&color=38bdae&line=6c63ff&point=b06ffb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-<br>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img heigth="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=viniciuspra&show_icons=true&count_private=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img heigth="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspra&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/0xabdulkhalid/">
+    <img src="https://github-readme-stats.vercel.app/api?username=viniciuspra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciuspra&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="viniciuspra"/>
   </a>
 </div>
-
-<br>
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-##
-<br>
-
-<div align="center"> 
-  <a href = "mailto:vinicius.cascaesp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-cascaes-pra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
