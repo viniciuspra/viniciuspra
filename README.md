@@ -2,7 +2,7 @@
 
 # Hi, I'm Vinicius Cascaes 👋
 
-<h3>Full Stack Junior Web Developer</h3>
+<h3>Junior Web Developer Full Stack</h3>
 
 ### Sobre mim
 - 👨‍💻 Desenvolvedor web full stack, apaixonado por criar aplicações modernas.
