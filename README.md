@@ -1,17 +1,20 @@
 <img src="https://github.com/viniciuspra/viniciuspra/assets/93842439/e6912a1f-6082-47b3-aa8a-20579c0b4943" alt="avatar" width="120px"/>
 
-# Hi, I'm Vinicius Cascaes 👋
-
+# Hi, I'm Vinicius Cascaes Prá 👋
 <h3>Junior Web Developer Full Stack</h3>
 
-### Sobre mim
+##Sobre mim
+
 - 👨‍💻 Desenvolvedor web full stack, apaixonado por criar aplicações modernas.
 - 🌐 Atualmente trabalhando na stack front-end: React, Vite, styled-components e Tailwind CSS.
-- 📚 Aprendendo Typescript e Next.js para aprimorar minhas habilidades no front-end.
-- 🧰 Stack back-end: Node.js, Express, SQLite com Knex.
-- 📖 Explorando Prisma, Fastify e PostgreSQL em minha jornada de aprendizado no back-end.
+- 📚 Aprendendo Typescript e Next.js para aprimorar minhas habilidades no front-end.   
+- 🧰 Stack back-end: Node.js, Express, Prisma, PostgreSQL, SQLite.
 - 🚀 Sempre em busca de novos desafios e oportunidades para melhorar meu código.
+
 <br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,styledcomponents,nextjs,nodejs,express,prisma,sqlite,postgres,&perline=7)](https://skillicons.dev)
+
 <div align="center">
   
 ## Contact Me 🤝
