@@ -3,7 +3,7 @@
 # Hi, I'm Vinicius Cascaes Prá 👋
 <h3>Junior Web Developer Full Stack</h3>
 
-##Sobre mim
+## Sobre mim
 
 - 👨‍💻 Desenvolvedor web full stack, apaixonado por criar aplicações modernas.
 - 🌐 Atualmente trabalhando na stack front-end: React, Vite, styled-components e Tailwind CSS.
