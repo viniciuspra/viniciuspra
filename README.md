@@ -6,7 +6,7 @@
 ## Sobre mim
 
 - 👨‍💻 Desenvolvedor web full stack, apaixonado por criar aplicações modernas.
-- 🌐 Atualmente trabalhando na stack front-end: React, Vite, styled-components e Tailwind CSS.
+- 🌐 Atualmente trabalhando na stack front-end: React, NextJs14, Vite, Redux, styled-components e Tailwind CSS.
 - 🧰 Stack back-end: Node.js, Express, Prisma, PostgreSQL, SQLite.
 - 🚀 Sempre em busca de novos desafios e oportunidades para melhorar meu código.
 
