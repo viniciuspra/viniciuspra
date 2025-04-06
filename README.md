@@ -19,7 +19,7 @@
 ## Contact Me 🤝
 
 <a href="https://github.com/viniciuspra" target="_blank"><img src="https://img.shields.io/badge/-viniciuspra-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://www.linkedin.com/in/vinicius-cascaes-pra" target="_blank"><img src="https://img.shields.io/badge/-vinicius_cascaes_pra-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/vinicius-cascaes-pra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
 <a href="mailto:vinicius.cascaesp@gmail.com"><img src="https://img.shields.io/badge/-vinicius.cascaesp@gmail.com-white?logo=gmail&style=flat-square" alt="gmail"/></a>
 <br/><br/>
 <a href="https://www.buymeacoffee.com/viniciuspra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="buy me a coffe" /></a>
