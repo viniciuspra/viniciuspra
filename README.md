@@ -1,13 +1,13 @@
 <img src="https://github.com/viniciuspra/viniciuspra/assets/93842439/e6912a1f-6082-47b3-aa8a-20579c0b4943" alt="avatar" width="120px"/>
 
-# Hi, I'm Vinicius Cascaes Prá 👋
-<h3>Junior Web Developer Full Stack</h3>
+# Olá, eu sou Vinicius Cascaes Prá 👋
+<h3>Desenvolvedor Web | Full-Stack</h3>
 
 ## Sobre mim
 
 - 👨‍💻 Desenvolvedor web full stack, apaixonado por criar aplicações modernas.
-- 🌐 Atualmente trabalhando na stack front-end: React, NextJs14, Vite, Redux, styled-components e Tailwind CSS.
-- 🧰 Stack back-end: Node.js, Express, Nestjs, Prisma, PostgreSQL, SQLite.
+- 🌐 Atualmente trabalhando na stack front-end: React, NextJs, Vite, Redux, styled-components e Tailwind CSS.
+- 🧰 Stack back-end: Node.js, Express, Nestjs, Prisma, PostgreSQL.
 - 🚀 Sempre em busca de novos desafios e oportunidades para melhorar meu código.
 
 <br>
